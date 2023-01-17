@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  /* modalità moderna per stilizzare un elemento */
 }
 
 body {
@@ -12,6 +13,9 @@ body {
   color: white;
 }
 
+
+
+/* navbar */
 nav {
   margin-bottom: 20px;
 }
@@ -73,11 +77,14 @@ nav h1 {
   margin-bottom: 12px;
 }
 
+
 /* email-list */
 
 #email-list {
   background-color: #d3d3d3;
   color: black;
+
+  margin-bottom: 12px;
 }
 
 #email-list ul {
@@ -96,4 +103,15 @@ nav h1 {
 
 #email-list .unread {
   background-color: #ffffff;
+}
+
+
+/* footer */
+footer {
+  text-align: center;
+
+}
+
+footer strong {
+  font-size: 1.6em;
 }
