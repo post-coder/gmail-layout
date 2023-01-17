@@ -26,3 +26,19 @@ nav h1 {
   line-height: 100px;
   vertical-align: bottom;
 }
+
+
+/* search */
+#search {
+  padding: 12px 0;
+}
+
+#search #search-box {
+  padding: 4px;
+}
+
+#search button {
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: none;
+}
