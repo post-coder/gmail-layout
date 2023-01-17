@@ -47,6 +47,11 @@ nav h1 {
 
 
 /* notification */
+
+#notification {
+  margin-bottom: 20px;
+}
+
 #notification #badge {
   display: inline-block;
   height: 40px;
@@ -56,6 +61,7 @@ nav h1 {
 
   border-radius: 100%;
 
+  font-size: 1.4em;
   text-align: center;
   vertical-align: middle;
   line-height: 40px;
