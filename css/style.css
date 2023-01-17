@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg');
+
+  padding: 20px 60px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav #logo {
+  height:80px;
+
+  margin-right: 10px;
+}
+
+nav h1 {
+  display: inline-block;
+  color: white;
+  line-height: 100px;
+  vertical-align: bottom;
+}
