@@ -8,6 +8,8 @@ body {
   background-image: url('https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg');
 
   padding: 20px 60px;
+
+  color: white;
 }
 
 nav {
@@ -41,4 +43,22 @@ nav h1 {
   padding: 4px 8px;
   border-radius: 4px;
   border: none;
+}
+
+
+/* notification */
+#notification #badge {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+
+  /* padding: 20px; */
+
+  border-radius: 100%;
+
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+
+  background-color: #faa501;
 }
